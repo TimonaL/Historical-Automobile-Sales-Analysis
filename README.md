@@ -4,7 +4,8 @@
 This project focuses on analyzing historical automobile sales data to identify key factors influencing sales trends, including economic conditions, competition, and advertising expenditure. The dataset spans from 1980 to 2023, covering 528 monthly records with variables such as Price, Automobile Sales, GDP, and Consumer Confidence.
 
 # Data Source: 
-The dataset was sourced from a project within the IBM Developer Skills Network as part of a Data Analytics certification course, ensuring the data is reliable and relevant for in-depth analysis.
+The dataset was collected from the IBM Developer Skills Network as part of a data science project. The data can be accessed via the following URL:
+URL = "https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DV0101EN-SkillsNetwork/Data%20Files/historical_automobile_sales.csv"
 
 # Key Features:
 
