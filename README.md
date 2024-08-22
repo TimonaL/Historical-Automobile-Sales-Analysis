@@ -7,6 +7,11 @@ This project focuses on analyzing historical automobile sales data to identify k
 The dataset was collected from the IBM Developer Skills Network as part of a data science project. The data can be accessed via the following URL:
 URL = "https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DV0101EN-SkillsNetwork/Data%20Files/historical_automobile_sales.csv"
 
+# Data Cleaning and Preparation:
+After initial data wrangling and preprocessing, which included cleaning and formatting the dataset, the refined data was saved as a new CSV file for further analysis.
+(historical_automobile_sales.csv)
+
+
 # Key Features:
 
 # Data Wrangling & Preprocessing:
