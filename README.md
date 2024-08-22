@@ -35,11 +35,17 @@ The dataset was sourced from a project within the IBM Developer Skills Network a
 # Findings:
 
 •	Automobile sales are sensitive to economic conditions, particularly recessions, which significantly reduce sales volumes.
+
 •	There is a noticeable cyclical pattern in sales, with certain months consistently showing higher sales due to seasonality.
+
 •	The effectiveness of advertising expenditure on sales is not straightforward and varies based on additional factors.
+
 •	Competition levels have a nuanced impact on sales, with some optimal levels identified where sales tend to peak.
 
 # Recommendations:
+
 •	Strategic Planning: Utilize insights from seasonality and competition analysis to optimize marketing efforts and inventory management.
+
 •	Economic Resilience: Develop strategies to mitigate the impact of economic downturns on sales.
+
 •	Targeted Advertising: Focus on tailored advertising campaigns rather than just increasing expenditure, ensuring they reach the right audience for maximum impact.
